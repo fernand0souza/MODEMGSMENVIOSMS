@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODEMGSMENVIO", "MODEMGSMENVIO\MODEMGSMENVIO.csproj", "{66424B10-65C7-4AFB-80DA-DE46E8596D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBMODEMGSMENVIO", "WEBMODEMGSMENVIO\WEBMODEMGSMENVIO.csproj", "{D5E4FC61-820C-4E53-ADC4-09DEDEF08296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66424B10-65C7-4AFB-80DA-DE46E8596D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66424B10-65C7-4AFB-80DA-DE46E8596D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66424B10-65C7-4AFB-80DA-DE46E8596D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66424B10-65C7-4AFB-80DA-DE46E8596D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E4FC61-820C-4E53-ADC4-09DEDEF08296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E4FC61-820C-4E53-ADC4-09DEDEF08296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E4FC61-820C-4E53-ADC4-09DEDEF08296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E4FC61-820C-4E53-ADC4-09DEDEF08296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E76C4431-9023-49DB-93D9-ED148A63887C}
+	EndGlobalSection
+EndGlobal
