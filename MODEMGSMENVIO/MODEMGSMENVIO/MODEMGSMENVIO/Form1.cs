@@ -28,7 +28,7 @@ namespace MODEMGSMENVIO
                 MessageBox.Show("Arquivo de configuração não encontrado!");
                 return null;
             }
-            return string.Format("https://{0}:{1}", ip, porta);
+            return string.Format("http://{0}:{1}", ip, porta);
         }
 
         private void Form1_Load(object sender, EventArgs e)

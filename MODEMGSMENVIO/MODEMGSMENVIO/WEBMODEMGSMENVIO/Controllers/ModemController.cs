@@ -13,7 +13,7 @@ namespace WEBMODEMGSMENVIO.Controllers
 
         [HttpGet]
         [Route("Enviar")]
-        public void Enviar(string Numero, string Mensagem)
+        public string Enviar(string Numero, string Mensagem)
         {
             using (var port = new System.IO.Ports.SerialPort())
             {
@@ -26,6 +26,7 @@ namespace WEBMODEMGSMENVIO.Controllers
                 port.Write(string.Format("AT+CMGS=\"{0}\"\r", Numero));
                 port.Write(Mensagem + char.ConvertFromUtf32(26));
             }
+            return "Enviando com Sucesso!";
         }
 
     }
