@@ -34,6 +34,8 @@ in case of change of the localhost port, it should update in the procedure SQL
 ![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/LOCALHOST.PNG)
 ![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/SQL%20PORTA.PNG)
 
+## Procedure SQL
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/pro_p_MODEM_ENVIAR_SMS.sql)
 
 
 ## Demonstration
