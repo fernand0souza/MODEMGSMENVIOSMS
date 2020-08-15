@@ -25,5 +25,9 @@ always use the Device (COM) port
 
 ![port (COM) ](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/PORTA%20MODEM.PNG)
 
+make changes to the communication port with your device's USB Modem in the File ModemController.cs
+![make changes to the communication port ](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/PORTA%20COM.PNG)
+
+
 ## Demonstration
 
