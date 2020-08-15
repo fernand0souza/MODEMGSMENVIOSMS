@@ -18,7 +18,29 @@ Essas são as instruções de projeto em execução na sua máquina local para f
 
  - SQL SERVER
  - C# ASP.NET API
+ - MODEM GSM ZTE MODELO MF190
+
+## identify usb port
+always use the Device (COM) port
+
+![port (COM) ](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/PORTA%20MODEM.PNG)
+
+make changes to the communication port with your device's USB Modem in the File ModemController.cs
+
+![make changes to the communication port ](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/PORTA%20COM.PNG)
+
+in case of change of the localhost port, it should update in the procedure SQL
+
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/LOCALHOST.PNG)
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/SQL%20PORTA.PNG)
+
+## Procedure SQL
+pro_p_MODEM_ENVIAR_SMS.sql
 
 
 ## Demonstration
+
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/SOFTWARE.png)
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/DEMOSTRACAOFINAL.PNG)
+
 
