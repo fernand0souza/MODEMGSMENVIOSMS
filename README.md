@@ -29,6 +29,12 @@ make changes to the communication port with your device's USB Modem in the File 
 
 ![make changes to the communication port ](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/PORTA%20COM.PNG)
 
+in case of change of the localhost port, it should update in the procedure SQL
+
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/LOCALHOST.PNG)
+![](https://github.com/fernand0souza/MODEMGSMENVIOSMS/blob/master/SQL%20PORTA.PNG)
+
+
 
 ## Demonstration
 
